@@ -9,10 +9,10 @@
     : 吉拉德
   * Links
     :  
-     Website [http://gbraad.nl/][personal website]  
-     LinkedIn [http://linkedin.com/in/gbraad][linkedin profile]
-  * Phone
-    : +86 186 0132 7445
+     [Website][personal website]  
+     [LinkedIn][linkedin profile]  
+     [Resume][link resume]  
+     [Portfolio][link portfolio]
 
 
 ## Background
@@ -23,12 +23,6 @@
   considered by his peers as a real full-stack engineer. With a focus on
   delivering quality and secure solutions, he has been able to provide small to
   enterprise level customers solutions that met their needs. 
-
-
-## Links
-
-  * [Resume][link resume]
-  * [Portfolio][link portfolio]
 
 
 [personal photo]: https://github.com/gbraad/resume/raw/master/gbraad-fc.png "Profile photo"
