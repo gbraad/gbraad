@@ -1,8 +1,6 @@
 # _**Gerard Braad**_
 
 
-## Personal information
-
 ![Photo][personal photo]
 
   * Chinese name
