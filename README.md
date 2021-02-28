@@ -34,7 +34,6 @@
 [![""](https://cdn.gbraad.nl/images/portfolio/slides2-small.jpg)](https://speakerdeck.com/gbraad/f19-slidedeck-openstack-h-h-h-hhift-what-the)
 [![""](https://cdn.gbraad.nl/images/portfolio/slides3-small.jpg)](https://speakerdeck.com/gbraad/oss)
 [![""](https://cdn.gbraad.nl/images/portfolio/slides4-small.jpg)](https://speakerdeck.com/gbraad/meego-on-arm)
-[![""](https://cdn.gbraad.nl/images/portfolio/gitbook-logo-small.png)](https://www.gitbook.com/@gbraad/)
 [![""](https://cdn.gbraad.nl/images/portfolio/docs2-small.jpg)](https://gbraad.gitlab.io/tools-training/#/inspection-and-maintenance-tools)
 ![""](https://cdn.gbraad.nl/images/portfolio/public1-small.jpg)
 ![""](https://cdn.gbraad.nl/images/portfolio/public2-small.jpg)
