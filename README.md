@@ -25,7 +25,7 @@
 ## Portfolio
 
 [![""](https://cdn.gbraad.nl/images/portfolio/blog-icon-small.png)](https://gbraad.nl/blog)
-[![""](https://cdn.gbraad.nl/images/portfolio/apps1-small.png)](https:https://gauth.apps.gbraad.nl)
+[![""](https://cdn.gbraad.nl/images/portfolio/apps1-small.png)](https://gauth.apps.gbraad.nl)
 [![""](https://cdn.gbraad.nl/images/portfolio/apps2-small.jpg)](https://s-macke.github.io/jor1k/demos/main.html)
 [![""](https://cdn.gbraad.nl/images/portfolio/slides7-small.png)](https://gbraad.nl/blog/presentation-atomic-fudcon-phnom-penh.html)
 [![""](https://cdn.gbraad.nl/images/portfolio/flatpak-small.png)](https://gbraad.nl/blog/flatpak-the-road-to-cicd-for-desktop-applications.html)
