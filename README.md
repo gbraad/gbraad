@@ -3,8 +3,6 @@
 
 ![Photo][personal photo]
 
-  * Chinese name
-    : 吉拉德
   * Links
     :  
      [Website][personal website]  
