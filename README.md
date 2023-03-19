@@ -3,11 +3,9 @@
 
 ![Photo][personal photo]
 
-  * Links
-    :  
-     [Website][personal website]  
-     [LinkedIn][linkedin profile]  
-     [Resume][link resume]
+## Links 
+  * [Website][personal website]
+  * [LinkedIn][linkedin profile]
 
 
 ## Background
@@ -19,6 +17,15 @@
   delivering quality and secure solutions, he has been able to provide small to
   enterprise level customers solutions that met their needs. 
 
+
+## Recent employment history
+  * [Red Hat][link redhat] - Manager, Software Engineering  
+    January 2017 - Present · 6+ years
+  * [UnitedStack][link ustack] - Technical Director  
+    November 2015 - December 2016 · 1 yr 2 mos
+  * ThoughtWorks - Senior Full-stack Engineer  
+    November 2013 - September 2015 · 1 yr 10 mos
+  * [Resume][link resume]
 
 ## Portfolio
 
@@ -63,3 +70,5 @@
 [personal website]: http://gbraad.nl "Personal website"
 [linkedin profile]: http://linkedin.com/in/gbraad/ "LinkedIn"
 [link resume]: https://github.com/gbraad/resume "Resume"
+[link ustack]: https://github.com/gbraad-unitedstack "UnitedStack"
+[link redhat]: https://github.com/gbraad-redhat "Red Hat"
