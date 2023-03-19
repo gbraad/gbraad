@@ -66,7 +66,7 @@
 ![""](https://cdn.gbraad.nl/images/portfolio/visuals4-small.jpg)
 
 
-[personal photo]: https://github.com/gbraad/resume/raw/master/gbraad-fc.png "Profile photo"
+[personal photo]: https://avatars.githubusercontent.com/u/128299119?s=200&v=4 "Profile photo"
 [personal website]: http://gbraad.nl "Personal website"
 [linkedin profile]: http://linkedin.com/in/gbraad/ "LinkedIn"
 [link resume]: https://github.com/gbraad/resume "Resume"
