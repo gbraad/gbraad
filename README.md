@@ -25,7 +25,8 @@
     November 2015 - December 2016 · 1 yr 2 mos
   * ThoughtWorks - Senior Full-stack Engineer  
     November 2013 - September 2015 · 1 yr 10 mos
-  * [Resume][link resume]
+  * ... more in [Resume][link resume]
+
 
 ## Portfolio
 
@@ -69,6 +70,6 @@
 [personal photo]: https://avatars.githubusercontent.com/u/128299119?s=200&v=4 "Profile photo"
 [personal website]: http://gbraad.nl "Personal website"
 [linkedin profile]: http://linkedin.com/in/gbraad/ "LinkedIn"
-[link resume]: https://github.com/gbraad/resume "Resume"
+[link resume]: https://github.com/gbraad/resume/blob/master/resume.md#employment-history "Resume"
 [link ustack]: https://github.com/gbraad-unitedstack "UnitedStack"
 [link redhat]: https://github.com/gbraad-redhat "Red Hat"
