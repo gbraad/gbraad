@@ -29,7 +29,7 @@
 
 
 ## Organization(s)
-  * [SpotSnel](link spotsnel) - Networking experiments
+  * [SpotSnel][link spotsnel] - Networking experiments
 
 
 ## Portfolio
