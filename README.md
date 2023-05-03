@@ -30,6 +30,7 @@
 
 ## Organization(s)
   * [SpotSnel][link spotsnel] - Networking experiments
+  * [gbraad-fedora][link fedora] - Fedora related projects
   * [machine-drivers][link mcndrv] - Machine drivers
 
 
@@ -51,7 +52,7 @@
 !["Public speaking"](https://cdn.gbraad.nl/images/portfolio/public3-small.jpg)
 !["Public speaking"](https://cdn.gbraad.nl/images/portfolio/public4-small.jpg)
 [!["kernel patches"](https://cdn.gbraad.nl/images/portfolio/linux-tux-small.png)](https://patchwork.kernel.org/patch/1062542/)
-[!["Fdora"](https://cdn.gbraad.nl/images/portfolio/project1-small.jpg)](https://fedoraproject.org/wiki/User:Gbraad)
+[!["Fedora"](https://cdn.gbraad.nl/images/portfolio/project1-small.jpg)](https://fedoraproject.org/wiki/User:Gbraad)
 [!["OpenStack"](https://cdn.gbraad.nl/images/portfolio/project2-small.jpg)](https://www.openstack.org/community/members/profile/49804)
 [!["Kubernetes"](https://cdn.gbraad.nl/images/portfolio/kubernetes-small.jpg)](https://gbraad.nl/blog/tag/kubernetes.html)
 [!["Atomic"](https://cdn.gbraad.nl/images/portfolio/atomic-logo-small.png)](https://gbraad.nl/blog/tag/atomic.html)
@@ -76,7 +77,8 @@
 [personal website]: http://gbraad.nl "Personal website"
 [linkedin profile]: http://linkedin.com/in/gbraad/ "LinkedIn"
 [link resume]: https://github.com/gbraad/resume/blob/master/resume.md#employment-history "Resume"
-[link ustack]: https://github.com/gbraad-unitedstack "UnitedStack"
-[link redhat]: https://github.com/gbraad-redhat "Red Hat"
+[link ustack]: https://github.com/gbraad-unitedstack "gbraad @ UnitedStack"
+[link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
+[link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
 [link mcndrv]: https://github.com/machine-drivers "Machine drivers"
