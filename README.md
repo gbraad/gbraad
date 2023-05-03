@@ -23,14 +23,6 @@
   * ... more in [Resume][link resume]
 
 
-## Organization(s)
-  * [spotsnel][link spotsnel] - Networking and hosting projects
-  * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
-  * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
-  * [gbraad-fedora][link fedora] - generic Fedora related projects
-  * [machine-drivers][link mcndrv] - Machine drivers
-
-
 ## Portfolio
 
 [!["blog"](https://cdn.gbraad.nl/images/portfolio/blog-icon-small.png)](https://gbraad.nl/blog)
@@ -70,6 +62,16 @@
 !["Visuals"](https://cdn.gbraad.nl/images/portfolio/visuals4-small.jpg)
 
 
+## Organization(s)
+  * [crc-org][link crcorg] - Development of CRC/OpenShift Local
+  * [jkube][link jkube] - Management of JKube team
+  * [spotsnel][link spotsnel] - Networking and hosting projects
+  * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
+  * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
+  * [gbraad-fedora][link fedora] - generic Fedora related projects
+  * [machine-drivers][link mcndrv] - Machine drivers
+
+
 ## Links 
   * [Website][personal website]
   * [LinkedIn][linkedin profile]
@@ -82,6 +84,8 @@
 [link ustack]: https://github.com/gbraad-unitedstack "gbraad @ UnitedStack"
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
+[link crcorg]: https://github.com/crc-org "CRC / OpenShift Local"
+[link jkube]: https://github.com/jkubeio "JKube"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
 [link ssfedora]: https://github.com/spotsnel-fedora "spotsnel @ Fedora"
 [link ssgaming]: https://github.com/spotsnel-gaming "SpotSnel gaming"
