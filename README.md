@@ -29,7 +29,8 @@
 
 
 ## Organization(s)
-  * [SpotSnel][link spotsnel] - Networking experiments
+  * [SpotSnel][link spotsnel] - Networking and hosting projects
+  * [SpotSnel Gaming][link ssgaming] - gaming related hosting projects
   * [gbraad-fedora][link fedora] - Fedora related projects
   * [machine-drivers][link mcndrv] - Machine drivers
 
@@ -81,4 +82,5 @@
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
+[link ssgaming]: https://github.com/spotsnel-gaming "SpotSnel gaming"
 [link mcndrv]: https://github.com/machine-drivers "Machine drivers"
