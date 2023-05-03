@@ -3,11 +3,6 @@
 
 ![Photo][personal photo]
 
-## Links 
-  * [Website][personal website]
-  * [LinkedIn][linkedin profile]
-
-
 ## Background
 
   Gerard is a skilled professional in software development practices and methodologies,
@@ -73,6 +68,11 @@
 [!["Visuals - Let There Be House"](https://cdn.gbraad.nl/images/portfolio/visuals2-small.jpg)](https://lettherebehouse.com/)
 !["Visuals"](https://cdn.gbraad.nl/images/portfolio/visuals3-small.jpg)
 !["Visuals"](https://cdn.gbraad.nl/images/portfolio/visuals4-small.jpg)
+
+
+## Links 
+  * [Website][personal website]
+  * [LinkedIn][linkedin profile]
 
 
 [personal photo]: https://avatars.githubusercontent.com/u/128299119?s=200&v=4 "Profile photo"
