@@ -83,6 +83,6 @@
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
-[link ssgaming]: https://github.com/spotsnel-fedora "spotsnel @ Fedora"
+[link ssfedora]: https://github.com/spotsnel-fedora "spotsnel @ Fedora"
 [link ssgaming]: https://github.com/spotsnel-gaming "SpotSnel gaming"
 [link mcndrv]: https://github.com/machine-drivers "Machine drivers"
