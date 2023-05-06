@@ -69,6 +69,7 @@
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
   * [gbraad-fedora][link fedora] - generic Fedora related projects
+  * [gbraad-devenv][link devenv] - instant development environments
   * [machine-drivers][link mcndrv] - Machine drivers
 
 
@@ -84,6 +85,7 @@
 [link ustack]: https://github.com/gbraad-unitedstack "gbraad @ UnitedStack"
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
+[link devenv]: https://github.com/gbraad-devenv "Developer environments"
 [link crcorg]: https://github.com/crc-org "CRC / OpenShift Local"
 [link jkube]: https://github.com/jkubeio "JKube"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
