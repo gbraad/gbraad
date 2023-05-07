@@ -1,7 +1,8 @@
 # _**Gerard Braad**_
 
 
-![Photo][personal photo]
+![header][assets header]
+
 
 ## Background
 
@@ -62,7 +63,7 @@
 !["Visuals"](https://cdn.gbraad.nl/images/portfolio/visuals4-small.jpg)
 
 
-## Organization(s)
+## Organizations
   * [crc-org][link crcorg] - Development of CRC/OpenShift Local
   * [jkube][link jkube] - Management of JKube team
   * [spotsnel][link spotsnel] - Networking and hosting projects
@@ -79,6 +80,7 @@
 
 
 [personal photo]: https://avatars.githubusercontent.com/u/128299119?s=200&v=4 "Profile photo"
+[assets header]: https://github.com/gbraad/gbraad/raw/master/assets/header.svg "Profile header"
 [personal website]: http://gbraad.nl "Personal website"
 [linkedin profile]: http://linkedin.com/in/gbraad/ "LinkedIn"
 [link resume]: https://github.com/gbraad/resume/blob/master/resume.md#employment-history "Resume"
