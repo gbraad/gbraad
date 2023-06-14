@@ -69,6 +69,8 @@
   * [spotsnel][link spotsnel] - Networking and hosting projects
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
+  * [gbraad-apps][link apps] - application related repositories
+  * [gbraad-docs][link docs] - documentation related repositories
   * [gbraad-fedora][link fedora] - generic Fedora related projects
   * [gbraad-devenv][link devenv] - instant development environments
   * [gbraad-gaming][link gaming] - gaming related repositories
@@ -90,6 +92,8 @@
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
 [link gaming]: https://github.com/gbraad-gaming "Gaming related"
+[link apps]: https://github.com/gbraad-apps "Applications"
+[link docs]: https://github.com/gbraad-docs "Documentation"
 [link teaching]: https://github.com/gbraad-teaching "Teaching material"
 [link devenv]: https://github.com/gbraad-devenv "Developer environments"
 [link crcorg]: https://github.com/crc-org "CRC / OpenShift Local"
