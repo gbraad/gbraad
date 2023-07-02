@@ -69,6 +69,7 @@
   * [spotsnel][link spotsnel] - Networking and hosting projects
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
+  * [spotsnel-gaming][link ssservices] - service related hosting projects
   * [gbraad-apps][link apps] - application related repositories
   * [gbraad-docs][link docs] - documentation related repositories
   * [gbraad-fedora][link fedora] - generic Fedora related projects
@@ -101,4 +102,5 @@
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
 [link ssfedora]: https://github.com/spotsnel-fedora "spotsnel @ Fedora"
 [link ssgaming]: https://github.com/spotsnel-gaming "SpotSnel gaming"
+[link ssservices]: https://github.com/spotsnel-services "SpotSnel services"
 [link mcndrv]: https://github.com/machine-drivers "Machine drivers"
