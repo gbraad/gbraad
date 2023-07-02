@@ -8,10 +8,12 @@
 
   Gerard is a skilled professional in software development practices and methodologies,
   with extensive experience in facilitating the transition of companies towards an Open
-  Source support and service business model. He has demonstrated expertise in managing
-  projects and is recognized by his colleagues as a proficient full-stack engineer. By
-  prioritizing the delivery of secure and high-quality solutions, he has successfully
-  provided tailored solutions to customers ranging from small-scale to enterprise-level.
+  Source support and service business model.
+  
+  He has demonstrated expertise in managing projects and is recognized by his colleagues
+  as a proficient full-stack engineer. By prioritizing the delivery of secure and
+  high-quality solutions, he has successfully provided tailored solutions to customers
+  ranging from small-scale to enterprise-level.
 
 
 ## Recent employment history
