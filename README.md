@@ -66,8 +66,6 @@
 
 
 ## Organizations
-  * [crc-org][link crcorg] - Development of CRC/OpenShift Local
-  * [jkube][link jkube] - Management of JKube team
   * [spotsnel][link spotsnel] - Networking and hosting projects
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
@@ -78,6 +76,11 @@
   * [gbraad-devenv][link devenv] - instant development environments
   * [gbraad-gaming][link gaming] - gaming related repositories
   * [gbraad-teaching][link teaching] - teaching related material
+
+
+## Work-related organizations
+  * [crc-org][link crcorg] - Development of CRC/OpenShift Local
+  * [jkube][link jkube] - Management of JKube team
   * [machine-drivers][link mcndrv] - Machine drivers
 
 
