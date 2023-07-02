@@ -69,7 +69,7 @@
   * [spotsnel][link spotsnel] - Networking and hosting projects
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
-  * [spotsnel-gaming][link ssservices] - service related hosting projects
+  * [spotsnel-services][link ssservices] - service related hosting projects
   * [gbraad-apps][link apps] - application related repositories
   * [gbraad-docs][link docs] - documentation related repositories
   * [gbraad-fedora][link fedora] - generic Fedora related projects
