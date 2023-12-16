@@ -76,6 +76,7 @@
   * [gbraad-devenv][link devenv] - instant development environments
   * [gbraad-gaming][link gaming] - gaming related repositories
   * [gbraad-teaching][link teaching] - teaching related material
+  * [gbraad-homelab][link homelab] - homelab related material
 
 
 ## Work-related organizations
@@ -101,6 +102,7 @@
 [link apps]: https://github.com/gbraad-apps "Applications"
 [link docs]: https://github.com/gbraad-docs "Documentation"
 [link teaching]: https://github.com/gbraad-teaching "Teaching material"
+[link homelab]: https://github.com/gbraad-homelab "Homelab material"
 [link devenv]: https://github.com/gbraad-devenv "Developer environments"
 [link crcorg]: https://github.com/crc-org "CRC / OpenShift Local"
 [link jkube]: https://github.com/jkubeio "JKube"
