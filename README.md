@@ -81,6 +81,7 @@
 
 ## Work-related organizations
   * [crc-org][link crcorg] - Development of CRC/OpenShift Local
+  * [containers][link containers] - Containers
   * [jkube][link jkube] - Management of JKube team
   * [machine-drivers][link mcndrv] - Machine drivers
 
@@ -105,6 +106,7 @@
 [link homelab]: https://github.com/gbraad-homelab "Homelab material"
 [link devenv]: https://github.com/gbraad-devenv "Developer environments"
 [link crcorg]: https://github.com/crc-org "CRC / OpenShift Local"
+[link containers]: https://github.com/containers "Containers"
 [link jkube]: https://github.com/jkubeio "JKube"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
 [link ssfedora]: https://github.com/spotsnel-fedora "spotsnel @ Fedora"
