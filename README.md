@@ -23,7 +23,7 @@
     November 2015 - December 2016 · 1 yr 2 mos
   * ThoughtWorks - Senior Full-stack Engineer  
     November 2013 - September 2015 · 1 yr 10 mos
-  * ... more in [Resume][link resume]
+  * ...
 
 
 ## Portfolio
