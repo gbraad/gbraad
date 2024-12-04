@@ -25,6 +25,25 @@
     November 2013 - September 2015 · 1 yr 10 mos
   * ...
 
+## Who am I?
+```mermaid
+mindmap
+   root)@gbraad(
+      Hobbies
+         𝑨𝑴𝑰𝑮𝑨
+         Electronics
+         RC cars
+         ...
+      Red Hat
+         Principal Software Engineer
+         Engineering Manager
+      Open Source
+         Linux
+         Fedora
+         OpenStack
+         Containers
+         Virtualization
+```
 
 ## Portfolio
 
