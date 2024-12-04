@@ -34,9 +34,12 @@ mindmap
          Electronics
          RC cars
          ...
-      Red Hat
-         Principal Software Engineer
-         Engineering Manager
+      Employment
+         Sogyo
+         ThoughtWorks
+         Red Hat
+            Principal Software Engineer
+            Engineering Manager
       Open Source
          Linux
          Fedora
