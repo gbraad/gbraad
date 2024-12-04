@@ -29,18 +29,18 @@
 ```mermaid
 mindmap
    root)@gbraad(
-      Hobbies
-         𝑨𝑴𝑰𝑮𝑨
+      (Hobbies)
+         (𝑨𝑴𝑰𝑮𝑨)
          Electronics
          RC cars
-         ...
-      Employment
+         (...)
+      (Employment)
          Sogyo
          ThoughtWorks
-         Red Hat
+         (Red Hat)
             Principal Software Engineer
             Engineering Manager
-      Open Source
+      (Open Source)
          Linux
          Fedora
          OpenStack
