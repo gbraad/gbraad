@@ -90,6 +90,7 @@ mindmap
 
 ## Organizations
   * [spotsnel][link spotsnel] - Networking and hosting projects
+  * [spotsnel-apps][link ssapps] - application related repositories
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
   * [spotsnel-services][link ssservices] - service related hosting projects
@@ -132,6 +133,7 @@ mindmap
 [link containers]: https://github.com/containers "Containers"
 [link jkube]: https://github.com/jkubeio "JKube"
 [link spotsnel]: https://github.com/spotsnel "SpotSnel"
+[link ssapps]: https://github.com/spotsnel-apps "SpotSnel applications"
 [link ssfedora]: https://github.com/spotsnel-fedora "spotsnel @ Fedora"
 [link ssgaming]: https://github.com/spotsnel-gaming "SpotSnel gaming"
 [link ssservices]: https://github.com/spotsnel-services "SpotSnel services"
