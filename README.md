@@ -34,6 +34,7 @@ mindmap
          (𝑨𝑴𝑰𝑮𝑨)
          Electronics
          RC cars
+         Magic TCG
          (...)
       (Employment)
          Sogyo
