@@ -95,6 +95,7 @@ mindmap
   * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
   * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
   * [spotsnel-services][link ssservices] - service related hosting projects
+  * [gbraad-actions][link actions] - actions and workflow related repositories
   * [gbraad-apps][link apps] - application related repositories
   * [gbraad-docs][link docs] - documentation related repositories
   * [gbraad-dotfiles][link dotfiles] - dotfiles related projects
@@ -126,6 +127,7 @@ mindmap
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
 [link gaming]: https://github.com/gbraad-gaming "Gaming related"
+[link actions]: https://github.com/gbraad-actions "Actions"
 [link apps]: https://github.com/gbraad-apps "Applications"
 [link dotfiles]: https://github.com/gbraad-dotfiles "dotfiles"
 [link docs]: https://github.com/gbraad-docs "Documentation"
