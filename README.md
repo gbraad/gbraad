@@ -128,7 +128,6 @@ mindmap
 </td><td valign="top" width="33%">
 
 ## Work-related
-  * [gbraad-redhat][link redhat]
   * [crc-org][link crcorg]  
     Development of CRC/OpenShift Local
   * [containers][link containers]  
@@ -137,12 +136,14 @@ mindmap
     Management of JKube team
   * [machine-drivers][link mcndrv]  
     Machine drivers
-
+  * [minishift][link minishift]
+    Minishift to deploy OpenShift 3.x
 
 ## Links 
   * [Website][personal website]
   * [LinkedIn][linkedin profile]
 
+</table>
 
 [personal photo]: https://avatars.githubusercontent.com/u/128299119?s=200&v=4 "Profile photo"
 [assets header]: https://github.com/gbraad/gbraad/raw/master/assets/header.svg "Profile header"
@@ -169,3 +170,4 @@ mindmap
 [link ssgaming]: https://github.com/spotsnel-gaming "SpotSnel gaming"
 [link ssservices]: https://github.com/spotsnel-services "SpotSnel services"
 [link mcndrv]: https://github.com/machine-drivers "Machine drivers"
+[link minishift]: https://github.com/minishift "Minishift"
