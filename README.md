@@ -1,5 +1,4 @@
-Gerard Braad
-============
+<h1 align="center">Gerard Braad</h1>
 
 
 ![header][assets header]
@@ -89,28 +88,55 @@ mindmap
 !["Visuals"](https://cdn.gbraad.nl/images/portfolio/visuals4-small.jpg)
 
 
-## Organizations
-  * [spotsnel][link spotsnel] - Networking and hosting projects
-  * [spotsnel-apps][link ssapps] - application related repositories
-  * [spotsnel-fedora][link ssfedora] - Fedora and EL related network projects
-  * [spotsnel-gaming][link ssgaming] - gaming related hosting projects
-  * [spotsnel-services][link ssservices] - service related hosting projects
-  * [gbraad-actions][link actions] - actions and workflow related repositories
-  * [gbraad-apps][link apps] - application related repositories
-  * [gbraad-docs][link docs] - documentation related repositories
-  * [gbraad-dotfiles][link dotfiles] - dotfiles related projects
-  * [gbraad-fedora][link fedora] - generic Fedora related projects
-  * [gbraad-devenv][link devenv] - instant development environments
-  * [gbraad-gaming][link gaming] - gaming related repositories
-  * [gbraad-teaching][link teaching] - teaching related material
-  * [gbraad-homelab][link homelab] - homelab related material
+<table><tr><td valign="top" width="33%">
+
+## Personal
+  * [gbraad-actions][link actions]  
+    actions and workflow related repositories
+  * [gbraad-apps][link apps]  
+    application related repositories
+  * [gbraad-docs][link docs]  
+    documentation related repositories
+  * [gbraad-dotfiles][link dotfiles]  
+    dotfiles related projects
+  * [gbraad-fedora][link fedora]  
+    generic Fedora related projects
+  * [gbraad-devenv][link devenv]  
+    instant development environments
+  * [gbraad-gaming][link gaming]  
+    gaming related repositories
+  * [gbraad-teaching][link teaching]  
+    teaching related material
+  * [gbraad-homelab][link homelab]  
+    homelab related material
+
+</td><td valign="top" width="33%">
+
+## Consultancy
+  * [spotsnel][link spotsnel]  
+    Networking and hosting projects
+  * [spotsnel-apps][link ssapps]  
+    application related repositories
+  * [spotsnel-fedora][link ssfedora]  
+    Fedora and EL related network projects
+  * [spotsnel-gaming][link ssgaming]  
+    gaming related hosting projects
+  * [spotsnel-services][link ssservices]  
+    service related hosting projects
 
 
-## Work-related organizations
-  * [crc-org][link crcorg] - Development of CRC/OpenShift Local
-  * [containers][link containers] - Containers
-  * [jkube][link jkube] - Management of JKube team
-  * [machine-drivers][link mcndrv] - Machine drivers
+</td><td valign="top" width="33%">
+
+## Work-related
+  * [gbraad-redhat][link redhat]
+  * [crc-org][link crcorg]  
+    Development of CRC/OpenShift Local
+  * [containers][link containers]  
+    Containers
+  * [jkube][link jkube]  
+    Management of JKube team
+  * [machine-drivers][link mcndrv]  
+    Machine drivers
 
 
 ## Links 
