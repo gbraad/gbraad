@@ -92,23 +92,23 @@ mindmap
 
 ## Personal
   * [gbraad-actions][link actions]  
-    actions and workflow related repositories
+    actions and workflow related
   * [gbraad-apps][link apps]  
-    application related repositories
+    application related
   * [gbraad-docs][link docs]  
-    documentation related repositories
+    documentation related
   * [gbraad-dotfiles][link dotfiles]  
-    dotfiles related projects
+    dotfiles related
   * [gbraad-fedora][link fedora]  
-    generic Fedora related projects
+    generic Fedora related
   * [gbraad-devenv][link devenv]  
     instant development environments
   * [gbraad-gaming][link gaming]  
-    gaming related repositories
+    gaming related 
   * [gbraad-teaching][link teaching]  
-    teaching related material
+    teaching related
   * [gbraad-homelab][link homelab]  
-    homelab related material
+    homelab related
 
 </td><td valign="top" width="33%">
 
