@@ -131,7 +131,7 @@ mindmap
     Management of JKube team
   * [machine-drivers][link mcndrv]  
     Machine drivers
-  * [minishift][link minishift]
+  * [minishift][link minishift]  
     Minishift to deploy OpenShift 3.x
 
 ### Links 
