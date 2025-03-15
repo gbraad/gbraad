@@ -132,7 +132,7 @@ mindmap
   * [machine-drivers][link mcndrv]  
     Machine drivers
   * [minishift][link minishift]  
-    Minishift to deploy OpenShift 3.x
+    Deploy OpenShift 3.x
 
 ### Links 
   * [Website][personal website]
