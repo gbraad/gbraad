@@ -90,7 +90,7 @@ mindmap
 
 <table><tr><td valign="top" width="33%">
 
-## Personal
+### Personal
   * [gbraad-actions][link actions]
   * [gbraad-apps][link apps]
   * [gbraad-docs][link docs]
@@ -107,7 +107,7 @@ mindmap
 
 </td><td valign="top" width="33%">
 
-## Consultancy
+### Consultancy
   * [spotsnel][link spotsnel]  
     Networking and hosting projects
   * [spotsnel-apps][link ssapps]  
@@ -122,7 +122,7 @@ mindmap
 
 </td><td valign="top" width="33%">
 
-## Work-related
+### Work-related
   * [crc-org][link crcorg]  
     CRC/OpenShift Local
   * [containers][link containers]  
@@ -134,7 +134,7 @@ mindmap
   * [minishift][link minishift]
     Minishift to deploy OpenShift 3.x
 
-## Links 
+### Links 
   * [Website][personal website]
   * [LinkedIn][linkedin profile]
 
