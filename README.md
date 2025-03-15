@@ -91,24 +91,19 @@ mindmap
 <table><tr><td valign="top" width="33%">
 
 ## Personal
-  * [gbraad-actions][link actions]  
-    actions and workflow related
-  * [gbraad-apps][link apps]  
-    application related
-  * [gbraad-docs][link docs]  
-    documentation related
-  * [gbraad-dotfiles][link dotfiles]  
-    dotfiles related
-  * [gbraad-fedora][link fedora]  
-    generic Fedora related
-  * [gbraad-devenv][link devenv]  
-    instant development environments
-  * [gbraad-gaming][link gaming]  
-    gaming related 
-  * [gbraad-teaching][link teaching]  
-    teaching related
-  * [gbraad-homelab][link homelab]  
-    homelab related
+  * [gbraad-actions][link actions]
+  * [gbraad-apps][link apps]
+  * [gbraad-docs][link docs]
+  * [gbraad-ublue][link ublue]
+  * [gbraad-dotfiles][link dotfiles]
+  * [gbraad-centos][link centos]
+  * [gbraad-fedora][link fedora]
+  * [gbraad-devenv][link devenv]
+  * [gbraad-gaming][link gaming]
+  * [gbraad-teaching][link teaching]
+  * [gbraad-homelab][link homelab]
+  * [gbraad-nextcloud][link nextcloud]
+  * ...
 
 </td><td valign="top" width="33%">
 
@@ -129,7 +124,7 @@ mindmap
 
 ## Work-related
   * [crc-org][link crcorg]  
-    Development of CRC/OpenShift Local
+    CRC/OpenShift Local
   * [containers][link containers]  
     Containers
   * [jkube][link jkube]  
@@ -153,10 +148,13 @@ mindmap
 [link ustack]: https://github.com/gbraad-unitedstack "gbraad @ UnitedStack"
 [link redhat]: https://github.com/gbraad-redhat "gbraad @ Red Hat"
 [link fedora]: https://github.com/gbraad-fedora "gbraad @ fedora"
+[link centos]: https://github.com/gbraad-centos "gbraad @ centos"
+[link ublue]: https://github.com/gbraad-ublue "ublue"
 [link gaming]: https://github.com/gbraad-gaming "Gaming related"
 [link actions]: https://github.com/gbraad-actions "Actions"
 [link apps]: https://github.com/gbraad-apps "Applications"
 [link dotfiles]: https://github.com/gbraad-dotfiles "dotfiles"
+[link nextcloud]: https://github.com/gbraad-nextcloud "nexcloud"
 [link docs]: https://github.com/gbraad-docs "Documentation"
 [link teaching]: https://github.com/gbraad-teaching "Teaching material"
 [link homelab]: https://github.com/gbraad-homelab "Homelab material"
