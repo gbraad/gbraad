@@ -13,7 +13,7 @@
   He has demonstrated expertise in managing projects and is recognized by his colleagues
   as a proficient full-stack engineer. By prioritizing the delivery of secure and
   high-quality solutions, he has successfully provided tailored solutions to customers
-  ranging from small-scale to enterprise-level.
+  ranging from small-scale to enterprise-level. [Read more ...](https://github.com/gbraad-resume)
 
 
 ## Recent employment history
