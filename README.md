@@ -96,6 +96,7 @@ mindmap
   * [gbraad-docs][link docs]
   * [gbraad-ublue][link ublue]
   * [gbraad-dotfiles][link dotfiles]
+  * [gbraad-vscode][link vscode]
   * [gbraad-centos][link centos]
   * [gbraad-fedora][link fedora]
   * [gbraad-devenv][link devenv]
@@ -154,6 +155,7 @@ mindmap
 [link actions]: https://github.com/gbraad-actions "Actions"
 [link apps]: https://github.com/gbraad-apps "Applications"
 [link dotfiles]: https://github.com/gbraad-dotfiles "dotfiles"
+[link vscode]: https://github.com/gbraad-vscode "VS Code"
 [link nextcloud]: https://github.com/gbraad-nextcloud "nexcloud"
 [link docs]: https://github.com/gbraad-docs "Documentation"
 [link teaching]: https://github.com/gbraad-teaching "Teaching material"
