@@ -91,19 +91,19 @@ mindmap
 <table><tr><td valign="top" width="33%">
 
 ### Personal
-  * [gbraad-actions][link actions]
-  * [gbraad-apps][link apps]
-  * [gbraad-docs][link docs]
-  * [gbraad-ublue][link ublue]
-  * [gbraad-dotfiles][link dotfiles]
-  * [gbraad-vscode][link vscode]
-  * [gbraad-centos][link centos]
-  * [gbraad-fedora][link fedora]
-  * [gbraad-devenv][link devenv]
-  * [gbraad-gaming][link gaming]
-  * [gbraad-teaching][link teaching]
-  * [gbraad-homelab][link homelab]
-  * [gbraad-nextcloud][link nextcloud]
+  * [Actions][link actions]
+  * [Apps][link apps]
+  * [Documents][link docs]
+  * [uBlue][link ublue]
+  * [Dotfiles][link dotfiles]
+  * [VS Code][link vscode]
+  * [Centos][link centos]
+  * [Fedora][link fedora]
+  * [Devenv][link devenv]
+  * [Gaming][link gaming]
+  * [Teaching][link teaching]
+  * [Homelab][link homelab]
+  * [Nextcloud][link nextcloud]
   * ...
 
 </td><td valign="top" width="33%">
