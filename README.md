@@ -13,7 +13,7 @@
   He has demonstrated expertise in managing projects and is recognized by his colleagues
   as a proficient full-stack engineer. By prioritizing the delivery of secure and
   high-quality solutions, he has successfully provided tailored solutions to customers
-  ranging from small-scale to enterprise-level. [Read more ...](https://github.com/gbraad-resume)
+  ranging from small-scale to enterprise-level.
 
 
 ## Recent employment history
@@ -23,7 +23,7 @@
     November 2015 - December 2016 · 1 yr 2 mos
   * ThoughtWorks - Senior Full-stack Engineer  
     November 2013 - September 2015 · 1 yr 10 mos
-  * ...
+  * [Read more ...](https://github.com/gbraad-resume)
 
 ## Who am I?
 ```mermaid
