@@ -16,7 +16,7 @@
   ranging from small-scale to enterprise-level.
 
 
-## Recent employment history
+## Employment history
   * [Red Hat][link redhat] - Manager, Software Engineering  
     January 2017 - Present · 8+ years
   * [UnitedStack][link ustack] - Technical Director  
