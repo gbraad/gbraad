@@ -97,7 +97,7 @@ mindmap
   * [uBlue][link ublue]
   * [Dotfiles][link dotfiles]
   * [VS Code][link vscode]
-  * [Centos][link centos]
+  * [CentOS][link centos]
   * [Fedora][link fedora]
   * [Devenv][link devenv]
   * [Gaming][link gaming]
