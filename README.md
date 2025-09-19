@@ -91,11 +91,13 @@ mindmap
 <table><tr><td valign="top" width="33%">
 
 ### Personal
+  * [Actionfile][link actionfile]
+  * [Machinefile][link machinefile]
+  * [Dotfiles][link dotfiles]
   * [Actions][link actions]
   * [Apps][link apps]
   * [Documents][link docs]
   * [uBlue][link ublue]
-  * [Dotfiles][link dotfiles]
   * [VS Code][link vscode]
   * [CentOS][link centos]
   * [Fedora][link fedora]
@@ -171,3 +173,5 @@ mindmap
 [link ssservices]: https://github.com/spotsnel-services "SpotSnel services"
 [link mcndrv]: https://github.com/machine-drivers "Machine drivers"
 [link minishift]: https://github.com/minishift "Minishift"
+[link machinefile]: https://github.com/machinefile "Machinefile"
+[link actionfile]: https://github.com/actionfile "Actionfile"
