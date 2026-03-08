@@ -51,6 +51,7 @@ mindmap
 
 ## Portfolio
 
+[!["music"](https://cdn.gbraad.nl/images/portfolio/regroove-icon-small.png)](https://music.gbraad.nl/)
 [!["blog"](https://cdn.gbraad.nl/images/portfolio/blog-icon-small.png)](https://gbraad.nl/blog)
 [!["gauth"](https://cdn.gbraad.nl/images/portfolio/apps1-small.png)](https://gauth.apps.gbraad.nl)
 [!["jor1k"](https://cdn.gbraad.nl/images/portfolio/apps2-small.jpg)](https://s-macke.github.io/jor1k/demos/main.html)
