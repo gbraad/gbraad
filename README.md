@@ -6,14 +6,19 @@
 
 ## Background
 
-  Gerard is a skilled professional in software development practices and methodologies,
-  with extensive experience in facilitating the transition of companies towards an Open
-  Source support and service business model.
+  Gerard is an engineering leader with deep experience in cross‑platform systems engineering,
+  developer tooling, and open‑source collaboration. He led the teams behind CRC/OpenShift Local
+  and JKube, delivering reliable developer environments across Linux, macOS, and Windows.
   
-  He has demonstrated expertise in managing projects and is recognized by his colleagues
-  as a proficient full-stack engineer. By prioritizing the delivery of secure and
-  high-quality solutions, he has successfully provided tailored solutions to customers
-  ranging from small-scale to enterprise-level.
+  He combines strong technical judgment with architectural leadership, re‑engineering CRC to
+  keep pace with OpenShift’s evolution and producing the only tool that can bring up a full
+  OpenShift environment in about ten minutes. Gerard is known for people‑first leadership,
+  supporting distributed teams through complex technical challenges and personal hardships
+  while maintaining consistent, high‑quality delivery.
+  
+  His work bridges low‑level systems engineering, developer experience, and cross‑team
+  collaboration, making him a trusted partner for teams building developer tooling, platforms,
+  and cross‑platform systems.
 
 
 ## Employment history
