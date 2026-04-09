@@ -18,7 +18,7 @@
 
 ## Employment history
   * [Red Hat][link redhat] - Manager, Software Engineering  
-    January 2017 - Present · 8+ years
+    January 2017 - July 2026 · 9+ years
   * [UnitedStack][link ustack] - Technical Director  
     November 2015 - December 2016 · 1 yr 2 mos
   * ThoughtWorks - Senior Full-stack Engineer  
