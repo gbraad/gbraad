@@ -12,7 +12,7 @@
   
   He combines strong technical judgment with architectural leadership, re‑engineering CRC to
   keep pace with OpenShift’s evolution and producing the only tool that can bring up a full
-  OpenShift environment in about ten minutes. Gerard is known for people‑first leadership,
+  OpenShift environment in about ten minutes. Gerard is known for a strong team leadership,
   supporting distributed teams through complex technical challenges and personal hardships
   while maintaining consistent, high‑quality delivery.
   
