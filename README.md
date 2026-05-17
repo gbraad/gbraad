@@ -40,6 +40,7 @@ mindmap
          Electronics
          RC cars
          ["`<a href='https://gaming.gbraad.nl'>Magic TCG</a>`"]
+         ["`<a href='https://ai.gbraad.nl'>AI</a>`"]
       (Employment)
          Sogyo
          ThoughtWorks
