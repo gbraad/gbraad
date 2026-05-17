@@ -36,10 +36,10 @@ mindmap
    root)@gbraad(
       (Hobbies)
          (𝑨𝑴𝑰𝑮𝑨)
+         Music & DSP
          Electronics
          RC cars
          Magic TCG
-         (...)
       (Employment)
          Sogyo
          ThoughtWorks
