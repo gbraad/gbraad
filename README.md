@@ -42,7 +42,7 @@ mindmap
          ["`<a href='https://github.com/gbraad-gaming/'>Magic TCG</a>`"]
       (Employment)
          Sogyo
-         ["`<a href='https://github.com/gbraad-thoughtworks/'>ThoughtWorks</a>`"]
+         ThoughtWorks
          ["`<a href='https://github.com/gbraad-redhat/'>Red Hat</a>`"]
             Principal Software Engineer
             Engineering Manager
