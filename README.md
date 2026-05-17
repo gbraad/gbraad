@@ -35,22 +35,22 @@
 mindmap
    root)@gbraad(
       (Hobbies)
-         ["`<a href='https://en.wikipedia.org/wiki/Amiga'>𝑨𝑴𝑰𝑮𝑨</a>`"]
-         ["`<a href='https://github.com/gbraad-music/'>Music & DSP</a>`"]
+         ["`<a href='https://amiga.gbraad.nl'>𝑨𝑴𝑰𝑮𝑨</a>`"]
+         ["`<a href='https://music.gbraad.nl'>Music & DSP</a>`"]
          Electronics
          RC cars
-         ["`<a href='https://github.com/gbraad-gaming/'>Magic TCG</a>`"]
+         ["`<a href='https://gaming.gbraad.nl'>Magic TCG</a>`"]
       (Employment)
          Sogyo
          ThoughtWorks
-         ["`<a href='https://github.com/gbraad-redhat/'>Red Hat</a>`"]
+         ["`<a href='https://redhat.gbraad.nl'>Red Hat</a>`"]
             Principal Software Engineer
             Engineering Manager
       (Open Source)
          Linux
-         ["`<a href='https://github.com/gbraad-fedora/'>Fedora</a>`"]
+         ["`<a href='https://fedora.gbraad.nl'>Fedora</a>`"]
          OpenStack
-         ["`<a href='https://github.com/gbraad-containers/'>Containers</a>`"]
+         ["`<a href='https://containers.gbraad.nl'>Containers</a>`"]
          Virtualization
 ```
 
