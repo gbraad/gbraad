@@ -23,7 +23,7 @@
 
 ## Employment history
   * [Independent Advisory Consultant](https://gbraad.nl)  
-    March 2008 - Present · 18+ yrs
+    March 2008 - Present · 18+ years
   * [Red Hat][link redhat] - Manager, Software Engineering  
     January 2017 - July 2026 · 9+ years
   * [UnitedStack][link ustack] - Technical Director  
