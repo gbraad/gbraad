@@ -100,9 +100,11 @@ mindmap
 <table><tr><td valign="top" width="33%">
 
 ### Personal
+  * [Dotfiles][link dotfiles]
+  * [Regroove Music][link rgrvmusic]
+  * [Ducttape Infra][link ducttape]
   * [Actionfile][link actionfile]
   * [Machinefile][link machinefile]
-  * [Dotfiles][link dotfiles]
   * [Actions][link actions]
   * [Apps][link apps]
   * [Documents][link docs]
@@ -166,6 +168,8 @@ mindmap
 [link actions]: https://github.com/gbraad-actions "Actions"
 [link apps]: https://github.com/gbraad-apps "Applications"
 [link dotfiles]: https://github.com/gbraad-dotfiles "dotfiles"
+[link rgrvmusic]: https://github.com/rgrvmusic "Regroove music tools"
+[link Ducttape]: https://github.com/ducttape-infra "Ducttape infra tools"
 [link vscode]: https://github.com/gbraad-vscode "VS Code"
 [link nextcloud]: https://github.com/gbraad-nextcloud "nexcloud"
 [link docs]: https://github.com/gbraad-docs "Documentation"
