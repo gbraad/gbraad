@@ -6,19 +6,17 @@
 
 ## Background
 
-  Gerard is an engineering leader with deep experience in cross‑platform systems engineering,
-  developer tooling, and open‑source collaboration. He led the teams behind CRC/OpenShift Local
-  and JKube, delivering reliable developer environments across Linux, macOS, and Windows.
-  
-  He combines strong technical judgment with architectural leadership, re‑engineering CRC to
-  keep pace with OpenShift’s evolution and producing the only tool that can bring up a full
-  OpenShift environment in about ten minutes. Gerard is known for a strong team leadership,
-  supporting distributed teams through complex technical challenges and personal hardships
-  while maintaining consistent, high‑quality delivery.
-  
-  His work bridges low‑level systems engineering, developer experience, and cross‑team
-  collaboration, making him a trusted partner for teams building developer tooling, platforms,
-  and cross‑platform systems.
+  Distinguished Full-Stack & Platform Engineering Leader with 20+ years of experience architecting scalable systems across cloud-native environments, Linux virtualization, developer tooling, and AI execution platforms. Proven track record leading distributed engineering teams, scaling open-source platforms (OpenShift, Kubernetes, Podman), and establishing industry-wide standards like preflight environment validations and microVM isolation patterns. A strategic, multi-disciplinary consultant adept at bridging low-level system engineering with modern Agile product delivery.
+
+
+### Core Competencies
+ - **Cloud & Platform Engineering**: *Kubernetes, OpenShift, Podman, OpenStack, MicroVM Isolation, Docker/Containers.*
+
+ - **Virtualization & Systems**: *Multi-OS Virtualization (Linux, macOS, Windows), System Administration, Performance Tuning, Linux Kernel/Tooling.*
+
+ - **AI Enablement & Tooling**: *AI-Assisted Development Workflows, Local Developer Environments, Cross-Platform Architectures.*
+
+ - **Engineering Leadership**: *Distributed Team Management, Technical Strategy, CI/CD Pipeline Architecture, Agile & DevSecOps.*
 
 
 ## Employment history
